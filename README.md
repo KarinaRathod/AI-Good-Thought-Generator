@@ -23,7 +23,7 @@ An AI-powered application that generates **personalized, meaningful positive tho
 - Streamlit
 - Google Gemini API
 - Matplotlib
-- Session State (for memory)
+- Session State ( for memory)
 
 ---
 
